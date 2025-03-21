@@ -1,0 +1,15 @@
+total 64
+-rw-rw-r-- 1 thomas thomas  626 déc.   2 17:13 instance30_40.txt
+-rw-rw-r-- 1 thomas thomas  683 déc.   2 17:13 instance30_50.txt
+-rw-rw-r-- 1 thomas thomas  965 déc.   2 17:13 instance40_50.txt
+-rw-rw-r-- 1 thomas thomas 1038 déc.   2 17:13 instance40_60.txt
+-rw-rw-r-- 1 thomas thomas 1446 déc.   2 17:13 instance50_60.txt
+-rw-rw-r-- 1 thomas thomas 1514 déc.   2 17:13 instance50_70.txt
+-rw-rw-r-- 1 thomas thomas 1992 déc.   2 17:13 instance60_70.txt
+-rw-rw-r-- 1 thomas thomas 2096 déc.   2 17:13 instance60_80.txt
+-rw-rw-r-- 1 thomas thomas 2641 déc.   2 17:13 instance70_80.txt
+-rw-rw-r-- 1 thomas thomas 2718 déc.   2 17:13 instance70_90.txt
+-rw-rw-r-- 1 thomas thomas 3439 déc.   2 17:13 instance80_100.txt
+-rw-rw-r-- 1 thomas thomas 3315 déc.   2 17:13 instance80_90.txt
+-rw-rw-r-- 1 thomas thomas 4147 déc.   2 17:13 instance90_100.txt
+-rw-rw-r-- 1 thomas thomas 4192 déc.   2 17:13 instance90_110.txt
